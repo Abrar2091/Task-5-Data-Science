@@ -1,0 +1,7 @@
+Method,Avg Length,Vocab Size,Total Tokens
+original,70.7962,101,97736
+basic_clean,70.7962,94,97736
+stopwords_removed,60.2567,79,70471
+lemmatized,59.9034,76,70471
+stemmed,51.5851,72,70471
+advanced_clean,69.7962,94,97736

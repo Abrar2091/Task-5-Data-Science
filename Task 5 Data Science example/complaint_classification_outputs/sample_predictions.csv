@@ -1,0 +1,5 @@
+Test Case,Original Text,Predicted Category,Confidence
+1,I found multiple errors on my credit report that are negatively impacting my score,Credit reporting,0.9908598153873883
+2,A debt collector keeps calling me at work even though I told them not to,Debt collection,0.9816400343815489
+3,My auto loan payment was not processed correctly and now I'm being charged late fees,Consumer Loan,0.9967794495385682
+4,The mortgage servicer denied my loan modification request without proper explanation,Mortgage,0.9787872258879168

@@ -1,0 +1,5 @@
+Category,Precision,Recall,F1-Score,Support
+Credit reporting,1.0,1.0,1.0,500
+Debt collection,1.0,1.0,1.0,500
+Consumer Loan,1.0,1.0,1.0,500
+Mortgage,1.0,1.0,1.0,500
