@@ -1,4 +1,4 @@
-# Task 5: Consumer Complaint Text Classification
+<img width="1919" height="1079" alt="image-2" src="https://github.com/user-attachments/assets/b505388a-c329-45ba-890e-d89efe188a62" /># Task 5: Consumer Complaint Text Classification
 
 This project performs multi-class text classification on consumer complaint data using Machine Learning and Deep Learning techniques.
 It follows a complete end-to-end data science workflow, from exploratory analysis to final predictions.
@@ -13,6 +13,21 @@ Each complaint is categorized into one of the following:
 | 1     | Debt collection                    |
 | 2     | Consumer loan                      |
 | 3     | Mortgage                           |
+<img width="1919" height="1079" alt="image-11" src="https://github.com/user-attachments/assets/346eb110-4ef9-4d8e-acb0-ab5916fb9d4e" />
+<img width="1919" height="1079" alt="image-10" src="https://github.com/user-attachments/assets/b3e0fc35-357d-4ebc-9436-e8e0edd7099f" />
+<img width="1919" height="1079" alt="image-9" src="https://github.com/user-attachments/assets/99f90973-79ce-4c5e-8ef3-fc69b9949c2b" />
+<img width="1919" height="1079" alt="image-8" src="https://github.com/user-attachments/assets/16b584a6-0667-4ace-a5d5-a8e842ec6522" />
+<img width="1919" height="1079" alt="image-7" src="https://github.com/user-attachments/assets/0f32e3dc-010b-4bf1-b08a-bf5f84d51376" />
+<img width="1919" height="1079" alt="image-6" src="https://github.com/user-attachments/assets/1f3db406-f705-41cc-b11e-2c01d625d7b9" />
+<img width="1919" height="1079" alt="image-5" src="https://github.com/user-attachments/assets/fe30c921-aba6-4174-89cf-e509e5e8f4f1" />
+<img width="1919" height="1079" alt="image-4" src="https://github.com/user-attachments/assets/d44e7b46-6a59-4213-be06-25265aed6e99" />
+<img width="1919" height="1079" alt="image-3" src="https://github.com/user-attachments/assets/02071707-127a-4cc9-9ebc-27b7dcdb506d" />
+
+
+https://github.com/user-attachments/assets/e0d2e240-bb25-4781-bf30-ddeb9292c5f0
+
+
+
 
 # Project Workflow
 # Explanatory Data Analysis (EDA) and Feature Engineering
